@@ -56,7 +56,3 @@ The prototype was fabricated using:
 - CNC machining of HDPE sheets
 - Resistance bands for passive loading
 - Polymer-based fasteners and mechanical components where possible
-
-/FEA
-/testing-data
-/docs
