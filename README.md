@@ -1,3 +1,7 @@
+# Repo Overview
+
+This Repository contains all files needed for the construction and assembly of the Device. References are contained in the Final Report.
+
 # Knee-MRI-Movement-and-Loading-Device
 
 A compact, passive, MRI-compatible knee motion and loading device designed for use inside standard closed-bore 3 T MRI scanners.
